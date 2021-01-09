@@ -1,0 +1,3 @@
+/media/cigan/Personal/GithubProjects/MotorcyclesProblem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/cigan/Personal/GithubProjects/MotorcyclesProblem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/cigan/Personal/GithubProjects/MotorcyclesProblem/cmake-build-debug/CMakeFiles/MotorcyclesProblem.dir
